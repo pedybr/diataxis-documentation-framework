@@ -6,7 +6,7 @@
     </style>
 
 
-The documentation system
+The documentation system is aweseome
 ================================================
 
 .. rst-class:: quote
